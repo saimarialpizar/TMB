@@ -82,6 +82,5 @@ Su TMB es: 1668.75 kcal/día
 ---
 
 ## 📌 Autor
-
-- **Tu Nombre Aquí**  
-- Proyecto académico - Universidad / Curso de Diseño de Patrones  
+-Saimari Alpizar Vives. 
+-Proyecto académico para la asignatura Patrones de Diseño- Universidad de Matanzas Camilo Cienfuegos.
